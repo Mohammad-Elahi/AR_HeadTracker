@@ -1,2 +1,2 @@
-# AR_HeadTracker-
+# AR_HeadTracker
 AR Head Tracking App
